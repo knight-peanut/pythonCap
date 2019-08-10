@@ -1,7 +1,7 @@
 # cube-Recovery
 
 ### 说明：  
-这是一个以层先法为基准的魔方复原python代码实现，运行环境为2.7.14，详细的魔方公式算法祥见 [http://www.mf100.org/beginner.htm](魔方乐园)
+这是一个以层先法为基准的魔方复原python代码实现，运行环境为2.7.14，详细的魔方公式算法祥见： [http://www.mf100.org/beginner.htm](魔方乐园)
 
 ### 目录文件结构：
 
